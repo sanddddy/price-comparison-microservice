@@ -50,3 +50,4 @@ json
 }
 
 4. UML Sequence Diagram
+![UML Sequence Diagram](UML.png)
