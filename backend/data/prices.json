@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Rare Beauty Soft Pinch Liquid Blush",
+    "store": "Sephora",
+    "price": 23.00
+  },
+  {
+    "name": "Rare Beauty Soft Pinch Liquid Blush",
+    "store": "Ulta",
+    "price": 23.00
+  },
+  {
+    "name": "Rare Beauty Soft Pinch Liquid Blush",
+    "store": "Nordstrom",
+    "price": 24.00
+  },
+
+  {
+    "name": "Charlotte Tilbury Airbrush Flawless Setting Spray",
+    "store": "Sephora",
+    "price": 38.00
+  },
+  {
+    "name": "Charlotte Tilbury Airbrush Flawless Setting Spray",
+    "store": "Ulta",
+    "price": 38.00
+  },
+  {
+    "name": "Charlotte Tilbury Airbrush Flawless Setting Spray",
+    "store": "Nordstrom",
+    "price": 39.00
+  }
+]
